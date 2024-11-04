@@ -48,8 +48,7 @@
 ``bash
 pip install requests
 ``
-3. Запустите установщик:
-   
+3. Запустите установщик:   
 ``bash
 python main_.py
 ``
