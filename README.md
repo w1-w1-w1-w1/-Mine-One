@@ -47,9 +47,9 @@
 2. Установите зависимости:
 ``bash
 pip install requests
-
 ``
 3. Запустите установщик:
+   
 ``bash
 python main_.py
 ``
